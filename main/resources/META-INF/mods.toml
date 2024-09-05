@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[1.20.1,)"
+license="MIT"
+
+[[mods]]
+modId="johansmod"
+version="1.0"
+displayName="Johans Mod"
+description='This is a simple mod created by Johan.'
+
+[[dependencies.johansmod]]
+modId="forge"
+mandatory=true
+versionRange="[1.20.1,)"
+ordering="NONE"
+side="BOTH"

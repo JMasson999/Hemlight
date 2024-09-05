@@ -1,0 +1,10 @@
+{
+  "item.johansmod.diamond_crafting_hammer": "Diamond Crafting Hammer",
+  "item.johansmod.netherite_crafting_hammer": "Netherite Crafting Hammer",
+  "item.johansmod.iron_crafting_hammer": "Iron Crafting Hammer",
+  "creativetab.johans_tab": "Johan's Tab",
+  "message.johansmod.need_hammer": "You need a hammer in your offhand to use the anvil!",
+  "item.johansmod.wooden_tongs": "Wooden Tongs",
+  "item.johansmod.iron_tongs": "Iron Tongs",
+  "message.johansmod.need_tongs": "You need tongs to use this."
+}
